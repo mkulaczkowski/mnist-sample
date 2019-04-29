@@ -24,7 +24,7 @@ Distributed Training on Gradient
 
 Just run the example with following parameters:
 ```
-  "name": "Mnist Sample",
+  "name": "Mnist Sample Tutorial",
   "projectHandle": "<your project handle",
   "parameterServerContainer": "tensorflow/tensorflow:1.13.1-gpu-py3",
   "parameterServerMachineType": "K80",
